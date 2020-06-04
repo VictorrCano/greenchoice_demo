@@ -51,10 +51,10 @@ class App extends React.Component {
       <div className="App">
         <div className="container">
           <Header/>
-          <AddTodo addTodo={this.addTodo}/>
           <Todo todo={this.state.todo} 
           markComplete={this.markComplete} 
           delTodo={this.delTodo}/>
+           <AddTodo addTodo={this.addTodo}/>
         </div>
       </div>
     );
