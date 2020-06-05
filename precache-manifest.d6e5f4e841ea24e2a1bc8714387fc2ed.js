@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f51f74b7d9212017ef5c5913740af046",
+    "revision": "0cc2819857d2e9dc8307be94b954483d",
     "url": "/greenchoice_demo/index.html"
   },
   {
-    "revision": "5844e9785d80e0c5da98",
-    "url": "/greenchoice_demo/static/css/main.d325696e.chunk.css"
+    "revision": "77471f6cefcfa80df006",
+    "url": "/greenchoice_demo/static/css/main.f2d095f1.chunk.css"
   },
   {
     "revision": "ec0040d479ce7570f72a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/greenchoice_demo/static/js/2.96b19f64.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5844e9785d80e0c5da98",
-    "url": "/greenchoice_demo/static/js/main.ced0139a.chunk.js"
+    "revision": "77471f6cefcfa80df006",
+    "url": "/greenchoice_demo/static/js/main.0c97d8ec.chunk.js"
   },
   {
     "revision": "f8f87012182b68ba0aa4",
