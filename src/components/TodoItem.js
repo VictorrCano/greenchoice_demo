@@ -7,14 +7,14 @@ export class TodoItem extends Component {
     getStyle = () => {
         if(this.props.todos.completed){return {
             textDecoration: 'line-through',
-            background: 'lightgrey',
-            padding: '10px',
+            background: 'lightgreen',
+            padding: '8px',
             borderBottom: '1px black solid'
         }}
         else{return{
             textDecoration: 'none',
-            background: 'lightgrey',
-            padding: '10px',
+            background: 'lightgreen',
+            padding: '8px',
             borderBottom: '1px black solid'
         }}
     }
@@ -44,8 +44,8 @@ const buttonStyle = {
     background: 'red',
     color: 'white',
     border: 'none',
-    padding: '5px 13px',
-    borderRadius: '50%',
+    padding: '1px 9px',
+    
     cursor: 'pointer',
     float: 'right'
 }

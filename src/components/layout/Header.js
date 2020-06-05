@@ -4,14 +4,14 @@ import React from 'react';
 function Header() {
     return(
         <header style={headerStyle}>
-            <h1>To-Do Web App</h1>
+            <h1>GreenChoice To-Do App</h1>
         </header>
     )
     
 }
 
 const headerStyle ={
-    background: 'black',
+    background: 'darkgreen',
     color: 'white',
     padding: '10px'
 }
