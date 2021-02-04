@@ -1,4 +1,4 @@
-# greenchoice_demo
+# To-Do List Web Application
 This is my React To-Do list Web Application for GreenChoice
 
 Deployment Link: 
